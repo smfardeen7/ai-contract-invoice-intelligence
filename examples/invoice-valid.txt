@@ -1,0 +1,12 @@
+Invoice: INV-001
+Vendor: Northwind Labs
+Contract: C-100
+Date: 2026-09-01
+Due Date: 2026-10-01
+Currency: USD
+Description | Quantity | Unit Price
+Analysis | 2 | 125.00
+Storage | 1 | 50.00
+Subtotal: 300.00
+Tax: 24.00
+Total: 324.00

@@ -1,0 +1,7 @@
+{
+  "C-100": {
+    "contract_id": "C-100", "vendor": "Northwind Labs", "currency": "USD",
+    "maximum_total": "500.00", "tax_rate": "0.08", "payment_days": 30,
+    "rates": {"Analysis": "125.00", "Storage": "50.00"}
+  }
+}
