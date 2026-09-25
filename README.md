@@ -2,6 +2,10 @@
 
 A runnable document-processing application that extracts invoice fields, checks them against contract terms, and stores an auditable review queue. Includes a local web interface, text/PDF ingestion, idempotent batch processing and an optional Apache Airflow DAG.
 
+![Actual local review queue with an accepted sample invoice and a sample flagged for total, payment-term and rate mismatches](docs/images/review-queue.png)
+
+*Captured from the running local application using the invented examples in this repository. “Accepted” means the configured checks passed; it does not authorize payment. [View the application overview](docs/images/review-overview.png).*
+
 ## Quick start
 
 Python 3.12 is recommended. From this repository:
